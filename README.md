@@ -210,6 +210,17 @@ MIT License - Built for AgentX Competition 2026
 - **Woxsen University** - Hosting the AgentX Competition
 - **Our Team** - 5 dedicated developers building the future of voice AI
 
+## **👥 Team Members**
+
+**AgentX Coffee Shop Team - 5 Members:**
+- **Team Lead & Backend Developer**: [Your Name]
+- **Frontend Developer**: [Team Member 2]
+- **UI/UX Designer**: [Team Member 3] 
+- **AI Integration Specialist**: [Team Member 4]
+- **Documentation & Testing**: [Team Member 5]
+
+*Built for AgentX - Agentic Development Competition 2026 at Woxsen University*
+
 ---
 
 ⭐ **Star this repo if you find it helpful!**
