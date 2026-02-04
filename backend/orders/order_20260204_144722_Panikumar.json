@@ -1,0 +1,11 @@
+{
+  "drinkType": "cappuccino",
+  "size": "large",
+  "milk": "almond milk",
+  "extras": [
+    "hazelnut syrup"
+  ],
+  "name": "Panikumar",
+  "timestamp": "2026-02-04T14:47:22.168930",
+  "status": "completed"
+}

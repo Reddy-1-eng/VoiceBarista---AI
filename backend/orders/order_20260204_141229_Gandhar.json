@@ -1,0 +1,11 @@
+{
+  "drinkType": "Cold Brew",
+  "size": "large",
+  "milk": "almond milk",
+  "extras": [
+    "sugar-free vanilla syrup"
+  ],
+  "name": "Gandhar",
+  "timestamp": "2026-02-04T14:12:29.449574",
+  "status": "completed"
+}
