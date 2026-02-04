@@ -215,3 +215,11 @@ MIT License - Built for AgentX Competition 2026
 ⭐ **Star this repo if you find it helpful!**
 
 **Built with ❤️ for AgentX - Agentic Development Competition 2026**
+
+---
+
+## 👥 **Team Collaboration**
+
+This project represents the collaborative effort of our 5-member development team for the **AgentX - Agentic Development Competition 2026** at Woxsen University. Each team member contributed their expertise in AI development, frontend engineering, system architecture, and user experience design to create this autonomous voice assistant.
+
+**🎓 Developed at Woxsen University, Hyderabad**
